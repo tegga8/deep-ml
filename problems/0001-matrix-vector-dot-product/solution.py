@@ -4,7 +4,6 @@ def matrix_dot_vector(a: list[list[int|float]], b: list[int|float]) -> list[int|
 	l = len(a)
 	ans = [0] * l
 	la = len(a[0])
-	
 	lb = len(b)
 	if la!=lb:
 		return -1
