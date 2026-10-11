@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T17:00:58.185Z",
+  "generated_at": "2026-10-11T17:07:16.870Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -57,6 +57,19 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-10-11T17:00:57.093Z",
       "last_pushed_at": "2026-10-11T17:00:57.093Z"
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-10-11T17:07:16.412Z",
+      "last_pushed_at": "2026-10-11T17:07:16.412Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
