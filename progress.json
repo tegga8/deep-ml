@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T18:38:32.847Z",
+  "generated_at": "2026-10-13T16:41:00.909Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -109,6 +109,17 @@
       "last_pushed_at": "2026-10-12T18:38:33.307Z",
       "language": "python",
       "lines": 27
+    },
+    "math:17": {
+      "kind": "math",
+      "id": "17",
+      "title": "Covariance and Correlation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/17",
+      "path": "math/0017-covariance-and-correlation",
+      "first_solved_at": "2026-10-13T16:41:00.009Z",
+      "last_pushed_at": "2026-10-13T16:41:00.009Z"
     }
   }
 }
