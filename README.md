@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 21 problems · 0 labs · 14 math
+**36** solved · 22 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-11 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-14 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-10-14 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
+| [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-15 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-12 | [solution](problems/0017-k-means-clustering) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-13 | [solution](problems/0329-matrix-rank) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-14 | [solution](problems/0312-quotient-rule-for-derivatives) |
