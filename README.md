@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 25 problems · 0 labs · 19 math
+**45** solved · 26 problems · 0 labs · 19 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-14 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-10-14 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-10-15 | [solution](problems/0037-calculate-correlation-matrix) |
+| [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-10-20 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-15 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-12 | [solution](problems/0017-k-means-clustering) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-10-13 | [solution](problems/0329-matrix-rank) |
