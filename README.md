@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 28 problems · 0 labs · 19 math
+**48** solved · 29 problems · 0 labs · 19 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-10-14 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-10-15 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-10-20 | [solution](problems/0214-chain-rule-for-composite-functions) |
+| [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-10-28 | [solution](problems/0219-derivative-of-softmax) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-15 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-10-28 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-12 | [solution](problems/0017-k-means-clustering) |
